@@ -1,0 +1,5 @@
+buildozer android clean
+
+#deletar a pasta .buildozer
+
+buildozer -v android debug
